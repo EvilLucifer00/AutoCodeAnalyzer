@@ -2,12 +2,12 @@
 __pycache__/
 *.py[codz]
 *$py.class
-research/testrepo/*
-research/db/*
+research/testrepo/
+research/db/
 
 # C extensions
 *.so
-db/*
+db/
 # Distribution / packaging
 .Python
 build/
