@@ -1,0 +1,9 @@
+tiktoken
+chromadb
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-core==0.2.43
+langchain-google-genai==1.0.8
+flask
+GitPython
+python-dotenv
